@@ -1,0 +1,16 @@
+{
+  "navigation": {
+		"home": "الرئيسية",
+		"about": "حول"
+	},
+	"page": {
+		"home": {
+			"title": "مرحبًا بك في NextJs i18n",
+			"description": "التدويل في تطبيق NextJs مع موجِّه الصفحات"
+		},
+		"about": {
+			"title": "من نحن",
+			"description": "هذه هي صفحة من نحن"
+		}
+	}
+}
